@@ -1,0 +1,38 @@
+Description:
+    The plane of Atian consists of a single landmass suspended on what surrounded by what is belived to be an endless sea. The continent is inhabited by all known races and manner of beast and also some that may be unique to this plane. Outsiders of various types can also be found and some may even call the plane home. The land is mostly covered by wilderness and inhabited by magical beast but there are also many empires and kingdoms that have forced a place for themselves.
+
+Terrain:
+    Varies by region(See map). In genral the central regions are extreamly mountinous and the outer regions are more gental. The east and west are more tropical while the north and south are temperate to chilly. Rhe center is average but due to its mountainous terrain is renowned for it cold.
+
+Planer connections:
+    Atian is highly planer and is rumored to hold at least one portal to every outer and inner plane as well as the material plane. Connections take two forms:
+        Portal/Rift:
+            Obviously visable 
+            Short or long lived but eventually expire
+            Naturally occuring
+                -Appear in related locations
+        Overlay:
+            More subtle
+            A gradule blending of one plane to anouther
+            Can form if a location is strongly aligned to a plane
+                - For example a commune of fire elementals might create an overlay to the elemental plane of fire.
+Gods:
+    Standard pathfinder gods. Most civilized areas allow free worship of like minded gods. There some that force worship of thier particular god, or even themselves, as the one true god.
+Political factions:
+    There are many diffrent factions using many diffrent names including:
+    -Villages
+    -Towns
+    -Mercinary company
+    -Adventuring band
+    -A variety of guilds
+    -Kindom
+    -empires
+    -Monestary/Tempale
+    -Academeny
+    -Secret societies of various types
+    -Cult
+    -Union
+    -Republic
+
+    Given the large variety each faction is given a rating, size and type by the informants guild. The rating is from F to SSS. Sizes are classified from individual to large. See the factions folder for types and more details.
+Places of note:

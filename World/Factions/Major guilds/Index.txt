@@ -1,0 +1,13 @@
+Well known:
+Mage guild:
+Martial guild:
+Adventures guild:
+Crafting guild:
+Merchants guild:
+Seafaring guild:
+Council of Nations:
+
+Hidden:
+Informants guild:
+Thieves guild:
+Assasins guild:
