@@ -9,12 +9,14 @@ Major guilds:
     Major guild(hidden) - Similar to public major guilds except membership in a hidden guild is rarely made public and in some cases may cause a member to lose ranking or position. Hidden guilds can be diffcult to find but are ever present.
 
 Professional organizations:
-
-Sub-guild
+    Created to further the intrests of the profession by either supporting it member's personal development and/or supplying recoures such as party matching, and materials exchange and magic items exchange. Some may also have thier own agenda, related to the profession such as the druids guild. They commoly have ties back to major guilds especially the Martial, Arcane and Divine guilds.
 
 Orginazational classifications:
-Martial
+Martial: 
+    Primarly involved with fighting or training for fighting. Note to be confused with the Martial Guild though it is a good example of a martial guild. An example of a minor martial guild might be the Storm mercinaries of the red dessert.
 Economic
+    Primaraly concered with 
 Relgious
 Governance
 Development
+Hidden

@@ -1,21 +1,32 @@
 Description:
-    The plane of Atian consists of a single landmass suspended on what surrounded by what is belived to be an endless sea. The continent is inhabited by all known races and manner of beast and also some that may be unique to this plane. Outsiders of various types can also be found and some may even call the plane home. The land is mostly covered by wilderness and inhabited by magical beast but there are also many empires and kingdoms that have forced a place for themselves.
+    The plane of Atian consists of one circular, extremely large landmass which gradually breaks up into a section of dense large islands, small islands, small chains and just sea. It is rumored that the sea eventually becomes shallower and ends at a sandbar at the edge of the world. The continent and islands are inhabited by all known races and manner of beast and also some that may be unique to this plane. Outsiders of various types can also be found and some may even call the plane home. The land is mostly covered by wilderness and inhabited by magical beast but there are also many empires and kingdoms that have forced a place for themselves.
 
 Terrain:
-    Varies by region(See map). In genral the central regions are extreamly mountinous and the outer regions are more gental. The east and west are more tropical while the north and south are temperate to chilly. Rhe center is average but due to its mountainous terrain is renowned for it cold.
+    Varies by region(See map). In general the central regions are extremely mountainous and the outer regions are more gentle. The central continent and islands form a rough disc 10,000 miles in radius. The ocean is rumored to extend another 5000 miles.
+
+Celestial behavior and seasons:
+The sun and moon travel on directly opposite sides in a steep sine wave around the land mass. The full rotation takes around a material plane year. How high the sun and moon go varies somewhat and the period of the wave are not identical. The outside continents and sea are know for their hot summers and fierce winters, as well the resulting storms. The climate becomes more moderate as you travel inwards, climbing into the central mountain range is always frigid.
 
 Planer connections:
-    Atian is highly planer and is rumored to hold at least one portal to every outer and inner plane as well as the material plane. Connections take two forms:
+    Atian is highly planer and is rumored to hold at least one portal to every outer and inner plane as well as the material plane. Rumors indicate there may also be portals to alternate material planes. Connections take two forms:
         Portal/Rift:
-            Obviously visable 
+            Obviously visible 
             Short or long lived but eventually expire
-            Naturally occuring
+            Naturally occurring
                 -Appear in related locations
         Overlay:
             More subtle
-            A gradule blending of one plane to anouther
+            A gradual blending of one plane to another
             Can form if a location is strongly aligned to a plane
                 - For example a commune of fire elementals might create an overlay to the elemental plane of fire.
+
+Magical effects:
+Dimensional travel is suppressed due to dimensional instability. Specifically Greater teleport and similar effects have a range equal to teleport usually does. Teleport and similar effects have their range reduced to one tenth the normal. Short range abilities such as dimension door(less than 1 mile) are not effected.
+
+Summoning spells, not in planar zones that oppose their nature, have their duration doubled.
+
+Other effects exist especially near planar connections of the overlay type.
+
 Gods:
     Standard pathfinder gods. Most civilized areas allow free worship of like minded gods. There some that force worship of thier particular god, or even themselves, as the one true god.
 Political factions:
@@ -35,4 +46,3 @@ Political factions:
     -Republic
 
     Given the large variety each faction is given a rating, size and type by the informants guild. The rating is from F to SSS. Sizes are classified from individual to large. See the factions folder for types and more details.
-Places of note:

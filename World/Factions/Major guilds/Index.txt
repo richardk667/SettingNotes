@@ -1,5 +1,6 @@
 Well known:
-Mage guild:
+Guild of the Arcane:
+Guild of the Divine(Non-evil)
 Martial guild:
 Adventures guild:
 Crafting guild:
@@ -11,3 +12,4 @@ Hidden:
 Informants guild:
 Thieves guild:
 Assasins guild:
+Guild of the Divine(Evil)
