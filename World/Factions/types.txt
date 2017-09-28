@@ -1,21 +1,21 @@
 Factions:
 Major guilds:
-    Taken as whole all major guilds are among the most powerful groups on the plane with vast resources and hidden depths, but are split into factions and unlikly to display thier full might. They are commenly also limited by thier charter in what actions they can take.
+    Taken as whole all major guilds are among the most powerful groups on the plane with vast resources and hidden depths, but are split into factions and unlikely to display their full might. They are commonly also limited by their charter in what actions they can take.
 
-    The purpose of major guilds is to provide connections, support, and/or common resources for people related to the guilds intrest. What form this takes varies widly by guild. For example the martial guild runs areas and training centers, connects registared tutors to students, and provides strength classifications for its members. On the other hand the adventuring guild runs a wide network of job request/completion, shelters for adventures traveling and group registration and rating.
+    The purpose of major guilds is to provide connections, support, and/or common resources for people related to the guilds interest. What form this takes varies widely by guild. For example the martial guild runs areas and training centers, connects registered tutors to students, and provides strength classifications for its members. On the other hand the adventuring guild runs a wide network of job request/completion, shelters for adventures traveling and group registration and rating.
 
-    Major guilds(public) - Plane spanning but with non-exclusive membership. Structure varies by guild but is commenly split between membership and staff. Staff positions are uncommon and people tend to hold one in one guild at a time, though there are exceptions. Mulitple executive positions is almost unheard of, and in some cases expressly forbiden
+    Major guilds(public) - Plane spanning but with non-exclusive membership. Structure varies by guild but is commonly split between membership and staff. Staff positions are uncommon and people tend to hold one in one guild at a time, though there are exceptions. Multiple executive positions is almost unheard of, and in some cases expressly forbidden
 
-    Major guild(hidden) - Similar to public major guilds except membership in a hidden guild is rarely made public and in some cases may cause a member to lose ranking or position. Hidden guilds can be diffcult to find but are ever present.
+    Major guild(hidden) - Similar to public major guilds except membership in a hidden guild is rarely made public and in some cases may cause a member to lose ranking or position. Hidden guilds can be difficult to find but are ever present.
 
 Professional organizations:
-    Created to further the intrests of the profession by either supporting it member's personal development and/or supplying recoures such as party matching, and materials exchange and magic items exchange. Some may also have thier own agenda, related to the profession such as the druids guild. They commoly have ties back to major guilds especially the Martial, Arcane and Divine guilds.
+    Created to further the interests of the profession by either supporting it member's personal development and/or supplying recourse such as party matching, and materials exchange and magic items exchange. Some may also have their own agenda, related to the profession such as the druids guild. They commonly have ties back to major guilds especially the Martial, Arcane and Divine guilds.
 
-Orginazational classifications:
+Organizational classifications:
 Martial: 
-    Primarly involved with fighting or training for fighting. Note to be confused with the Martial Guild though it is a good example of a martial guild. An example of a minor martial guild might be the Storm mercinaries of the red dessert.
+    Primary involved with fighting or training for fighting. Note to be confused with the Martial Guild though it is a good example of a martial guild. An example of a minor martial guild might be the Storm mercenaries of the red dessert.
 Economic
-    Primaraly concered with 
+    Primarily concerned with 
 Relgious
 Governance
 Development

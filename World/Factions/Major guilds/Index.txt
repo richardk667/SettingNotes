@@ -7,9 +7,13 @@ Crafting guild:
 Merchants guild:
 Seafaring guild:
 Council of Nations:
+Information Guild
+
+Semi-Hidden:
+League of sovereigns
 
 Hidden:
-Informants guild:
+Guild of Secrets
 Thieves guild:
-Assasins guild:
+Assassins guild:
 Guild of the Divine(Evil)
