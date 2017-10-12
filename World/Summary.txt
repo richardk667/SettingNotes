@@ -21,6 +21,8 @@ Planer connections:
                 - For example a commune of fire elementals might create an overlay to the elemental plane of fire.
 
 Magical effects:
+Un-mappable: The magic of the plane both warps maps and the terrain changes over time. The warping is proportional to how detailed the map is and how wide an area it covers.
+
 Dimensional travel is suppressed due to dimensional instability. Specifically Greater teleport and similar effects have a range equal to teleport usually does. Teleport and similar effects have their range reduced to one tenth the normal. Short range abilities such as dimension door(less than 1 mile) are not effected.
 
 Summoning spells, not in planar zones that oppose their nature, have their duration doubled.
@@ -28,21 +30,7 @@ Summoning spells, not in planar zones that oppose their nature, have their durat
 Other effects exist especially near planar connections of the overlay type.
 
 Gods:
-    Standard pathfinder gods. Most civilized areas allow free worship of like minded gods. There some that force worship of thier particular god, or even themselves, as the one true god.
-Political factions:
-    There are many diffrent factions using many diffrent names including:
-    -Villages
-    -Towns
-    -Mercinary company
-    -Adventuring band
-    -A variety of guilds
-    -Kindom
-    -empires
-    -Monestary/Tempale
-    -Academeny
-    -Secret societies of various types
-    -Cult
-    -Union
-    -Republic
+    Standard pathfinder gods. Most civilized areas allow free worship of like minded gods. There some that force worship of their particular god, or even themselves, as the one true god.
 
-    Given the large variety each faction is given a rating, size and type by the informants guild. The rating is from F to SSS. Sizes are classified from individual to large. See the factions folder for types and more details.
+Political factions:
+    The plane is large and there are many different factions. The largest and most powerful are the plane spanning major guilds. Many smaller groups and governments can trace a connection to one or more of the major guilds. Factions are usually ranked by the information guild. See the rating file for details.
