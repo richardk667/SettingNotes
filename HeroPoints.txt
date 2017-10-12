@@ -1,0 +1,18 @@
+You can gain hero points according to the rules here:
+http://www.d20pfsrd.com/gamemastering/other-rules/hero-points/
+
+The following are changed:
+Max points 10.
+You gain 2 points per level
+
+These abilities cost 2 points:
+Bonus
+Re-roll
+Extra-Action
+
+Avoid death takes 4 points
+
+New Abilities:
+You can take 20 on initiative for 1 point
+You can cast Resurrection for 6 points
+You can cast True Resurrection for 10 points
