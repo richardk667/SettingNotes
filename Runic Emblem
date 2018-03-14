@@ -7,7 +7,7 @@ At the users will by grabbing the emblem it can vibrate gently in the presence o
 
 The Emblem can store Runic Tokens and consume them for its abilities.
 
-It is difficult to for a non wilder to notice or an emblem and it also appears non-magical to detect magic as if under the magic aura spell.
+It is difficult for a non wilder to notice an emblem and it also appears non-magical to detect magic as if under the magic aura spell.
 
 Spell-Slinging:
 The Runic Emblem can be used to cast Arcane spells using the energy contained in stored runic totems. The cost rises with the spell level and the Emblem must be of sufficient rank to cast a spell level.
@@ -18,6 +18,8 @@ Rank 2 -> Max 8th
 Rank 1 -> Max 9th
 
 A cost in tokens is consumed from the emblem when the spell is prepared. The cost is equal to the spell level squared. Cantrips count as 1st level spells but prepare three charges. A spell may be prepared as a free action, standard action, or hour of quite work. If using a standard action you have time to adjust the arcane mechanisms, half the cost. If taking an hour you have time to consult the data sheet and recommended settings, reduce the cost by 75%. When reducing the cost round up, if the cost was already 1 gain 3 charges instead. Only one spell may be prepared at a time. Expensive material components greater than 100 gp must also be paid, count each token as 2500gp for that.
+
+Chain Extend 15ft/rank
 
 If a spell only appears on a 4th level list double its spell level when calculating limits and cost. If a spell only appears on a 6th level list multiply the spell level by 1.5 and round up.
 
@@ -57,7 +59,7 @@ Gravity Burst lesser(4 Tokens): As a swift action 2/day the gravity in the emble
 
 Kinetic Kick(2 Tokens): 5/day as a swift, immediate, or standard action the user can either gain +5 to an acrobatics check to jump this round and counts as having a running start as a surge of force propels them into the air or they may have the force effect the emblem sending it flying in a direction of their choice.
 
-Increase Capacity Rank 4(* Tokens): Increase rank 4 capacity by 10. Costs rank 4 capacity/2 Tokens.
+Increase Capacity Rank 4(* Tokens): Increase rank 4 capacity by 10. Costs rank 4 capacity/2 Tokens. This does not consume capacity(duh)
 
 Rank 3
 
