@@ -15,7 +15,7 @@ The Runic Emblem can be used to cast Arcane spells using the energy contained in
 Rank 4 -> Max 4th
 Rank 3 -> Max 6th
 Rank 2 -> Max 9th
-Rank 1 -> Max 10th
+Rank 1 -> Max ???
 
 A cost in tokens is consumed from the emblem when the spell is prepared. The cost is equal to the spell level squared. Cantrips count as 1st level spells but prepare three charges. A spell may be prepared as a free action, standard action, or hour of quite work. If using a standard action you have time to adjust the arcane mechanisms, half the cost. If taking an hour you have time to consult the data sheet and recommended settings, reduce the cost by 75%. When reducing the cost round up, if the cost was already 1 gain 3 charges instead. Only one spell may be prepared at a time. Expensive material components greater than 100 gp must also be paid, count each token as 2500gp for that.
 
