@@ -14,8 +14,8 @@ The Runic Emblem can be used to cast Arcane spells using the energy contained in
 
 Rank 4 -> Max 4th
 Rank 3 -> Max 6th
-Rank 2 -> Max 8th
-Rank 1 -> Max 9th
+Rank 2 -> Max 9th
+Rank 1 -> Max 10th
 
 A cost in tokens is consumed from the emblem when the spell is prepared. The cost is equal to the spell level squared. Cantrips count as 1st level spells but prepare three charges. A spell may be prepared as a free action, standard action, or hour of quite work. If using a standard action you have time to adjust the arcane mechanisms, half the cost. If taking an hour you have time to consult the data sheet and recommended settings, reduce the cost by 75%. When reducing the cost round up, if the cost was already 1 gain 3 charges instead. Only one spell may be prepared at a time. Expensive material components greater than 100 gp must also be paid, count each token as 2500gp for that.
 
@@ -33,7 +33,7 @@ An upgrade is necessary to access higher ranked abilities.
 
 Rank 1(10 capacity)
 
-Use Emblem(3 Tokens): Activate any of the emblem's intrinsic(Sticking, chain extending, light, etc..) or Rank 4 abilities while touching any part of the emblem or when it is attached to something touching you(clothes, armor) instead of just when touching the amulet
+Use Emblem(3 Tokens): Activate any of the emblem's intrinsic(Sticking, chain extending, light, etc..) or Rank 1 abilities while touching any part of the emblem or when it is attached to something touching you(clothes, armor) instead of just when touching the amulet
 
 Weight Modification lesser(2 Tokens): Subtract or Add up to 25 lb from the weight the user is carrying. Optionally when touching the emblem its weight may be set between 0 and 250 lb
 
@@ -55,7 +55,7 @@ Wardrobe master(1 Token): The owner may store up to 10 sets of mundane clothing 
 
 Elemental Burst(4 Tokens): Choose an element(not sonic) when adding this ability. Twice per day as a standard action the emblem explodes as CL20 Fireball but of the chosen element. Consume one token to use this ability an extra time.
 
-Gravity Burst lesser(4 Tokens): As a swift action 2/day the gravity in the emblems immediate vicinity increases all flying creatures in a 10ft radius column 100ft high must make a DC33 fly check or land on the ground. They do not take damage from the fall. Until the beginning of the users next turn while in the area they must make the same fly check to take off, but new creatures entering the area are not effected. Consume one token to use this ability an extra time.
+Gravity Burst lesser(4 Tokens): As a swift action 2/day the gravity in the emblems immediate vicinity increases all flying creatures in a 10ft radius column 100ft high must make a DC33 fly check or land on the ground. They do not take damage from the fall. Until the beginning of the users next turn while in the area they must make the same fly check to take off, but new creatures entering the area are not affected. Consume one token to use this ability an extra time.
 
 Kinetic Kick(2 Tokens): 5/day as a swift, immediate, or standard action the user can either gain +5 to an acrobatics check to jump this round and counts as having a running start as a surge of force propels them into the air or they may have the force effect the emblem sending it flying in a direction of their choice.
 
@@ -65,7 +65,7 @@ Runic Communication(2 Tokens): Your emblem can transmit your voice to others nea
 
 Emblem Proficiency(1 token) You may use the emblem as a whip with 15 foot reach. You may also treat it as a ranged weapon with 20ft range increment dealing 1d4 damage. You can hold onto the chain and retract the embelm after throwing it as a free action.
 
-Increase Capacity Rank 1(* Tokens): Increase rank 4 capacity by 10. Costs rank 4 capacity/2 Tokens. This does not consume capacity(duh)
+Increase Capacity Rank 1(* Tokens): Increase rank 1 capacity by 10. Costs rank 1 capacity/2 Tokens. This does not consume capacity(duh)
 
 Rank 2
 
